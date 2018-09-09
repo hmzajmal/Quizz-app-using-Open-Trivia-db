@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_f2445872d368aff6084c6a5643978dd92ea88482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_e8d1712bf27dd8c5ae8af6219be74d8c424acb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_24f3e1f32a3a1e0d62494186aff912a30947e3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_80e455027c1ae03def097e4fe824e65b57c11eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_7fc35091f25bb3116aeede16d2b2d1a45f7abb1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_915ae41b293c7f24aed1566429b1776364cde8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_209c27b91bc15adfb0f4c755c4342517ff5392db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_84ba91bbea1b47f9630511ac5e05bcfd0309d324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_bf1f0fbe9a1a94738d3e41bc637bb1581cddf541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_3226876dda3637c6dcd965d2376e4a6a0deaf683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_7f905a3dbb312a98deb59a19ee4a49a1c2fa4760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e4d846c340d90f7a081408ec89c114af34c45de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_6b273241658af0c95bee4bcad33e098f94611282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bf969d249873285e5c97d4110ae25c3b75fa3214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_4812781b68d0c472a3a7e1e6d94e6d5d5ca5205f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d504f3885967266419e2be156ba992d33fcd541c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_e94e9386fb761ff0b48f5fdf04ee297894da7e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_7ddfef39c5d2482c94ab3ad12e1e7fedcbf857ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ce0dae7c63ba89b28f5487ff52143a48bad258b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\React Native\Quizz\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_a8d4beb1c2c6578ca28606636b93c1b5443763ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hmzaj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\React Native\Quizz\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_f9624650aa3bfc555a4bbd89acad729221b2a846.jar" />
+    </item>
+
+</items>

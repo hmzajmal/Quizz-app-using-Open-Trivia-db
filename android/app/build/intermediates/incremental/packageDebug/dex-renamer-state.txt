@@ -1,0 +1,4 @@
+#Sun Sep 09 14:10:58 PKT 2018
+base.0=C\:\\React Native\\Quizz\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\React Native\\Quizz\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

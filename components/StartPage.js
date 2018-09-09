@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     alignItems: "center"
   },
   button_large: {
-    backgroundColor: "black",
+    backgroundColor: "#ff7675",
     padding: 20,
     borderRadius: 40,
     width: 200,
