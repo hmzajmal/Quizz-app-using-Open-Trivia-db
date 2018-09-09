@@ -1,58 +1,48 @@
 import React, { Component } from "react";
-import { View, Text, Button } from "react-native";
-import Spinner from "./Spinner";
+import { View, Text, Button, StyleSheet, TouchableOpacity } from "react-native";
 
 class StartPage extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      data: [],
-      spin: false
-    };
+    this.state = {};
   }
-  //   static navigationOptions = {
-  //     header: null
-  //   };
-
-  componentWillMount() {
-    this.setState({
-      spin: true
-    });
-    try {
-      fetch("https://opentdb.com/api.php?amount=10&type=boolean")
-        .then(response => response.json())
-        .then(responseData => {
-          this.setState({
-            data: responseData.results
-          });
-        })
-        .then(this.onSuccess);
-    } catch (error) {
-      console.error(error);
-    }
-  }
-  onSuccess = () => {
-    this.setState({
-      spin: false
-    });
+  static navigationOptions = {
+    header: null
   };
-  renderButton = () => {
-    if (this.state.spin) {
-      return <Spinner />;
-    }
-    return <Button title="Start Quizz" onPress={this.nextPage} />;
-  };
+  componentDidMount() {}
 
   nextPage = () => {
-    console.log(this.state.data);
-    this.props.navigation.navigate("Questions", {
-      loadedData: this.state.data
-    });
+    this.props.navigation.navigate("Questions", {});
   };
 
   render() {
-    return <View>{this.renderButton()}</View>;
+    return (
+      <View style={styles.container}>
+        <TouchableOpacity onPress={this.nextPage} style={styles.button_large}>
+          <Text style={styles.text}> Start Quizz</Text>
+        </TouchableOpacity>
+      </View>
+    );
   }
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center"
+  },
+  button_large: {
+    backgroundColor: "black",
+    padding: 20,
+    borderRadius: 40,
+    width: 200,
+    alignItems: "center"
+  },
+  text: {
+    color: "white",
+    fontSize: 20
+  }
+});
 
 export default StartPage;

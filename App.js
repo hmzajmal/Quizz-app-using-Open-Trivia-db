@@ -6,8 +6,8 @@ import Questions from "./components/Questions";
 import Finish from "./components/Finish";
 
 const App = createStackNavigator({
-  StartPage: { screen: StartPage },
   Questions: { screen: Questions },
+  StartPage: { screen: StartPage },
   Finish: { screen: Finish }
 });
 
